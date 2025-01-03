@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaya23-tech
-- 👀 I’m interested in learning new thongs and solving problems
+- 👀 I’m interested in learning new things and solving problems
 - 🌱 I’m currently learning python,web development and c language.
 - 💞️ I’m looking to collaborate with everything in which i can use my knowledge.
 - 📫 How to reach me akshayasedluri@gmail.com
